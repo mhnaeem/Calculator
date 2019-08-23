@@ -1,12 +1,14 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is a personal project about a calculator made completely from scrach
+written in the Java GUI using its Swing toolkit. The calculator has various
+functionailities such as calculating trigonometery functions and other 
+calculator functions. 
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Basic Calculator
+PURPOSE OF PROJECT: Personal Portfolio
+VERSION or DATE: v1.0, 19-Aug-2019
+HOW TO START THIS PROJECT: Compile Calculator_GUI.java
+AUTHORS: Muhammad Hammad
+USER INSTRUCTIONS: Use like any normal calculator
+STATUS: Still Working on It
