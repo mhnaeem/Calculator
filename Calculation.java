@@ -19,11 +19,11 @@ public class Calculation{
     public Calculation(String st){
         mainSt = st;
         while (multiplyAndDivideCheck(mainSt)){
-            mainSt = mo(mainSt);
+            mainSt = multipleOperatorsReplace(mainSt);
             mainSt = multiplyAndDivideEvaluation(mainSt);
         }
         while (!checkNumber(mainSt)){
-            mainSt = mo(mainSt);
+            mainSt = multipleOperatorsReplace(mainSt);
             mainSt = additionAndSubtractionEvaluation(mainSt);
         } 
     }
@@ -252,7 +252,7 @@ public class Calculation{
      * @param - String st contains the equation that needs to be fixed
      * @return - String the fixed answer
      */      
-    private String mo(String st){
+    private String multipleOperatorsReplace(String st){
         st = st.replace("--", "+");
         st = st.replace("++", "+");
         st = st.replace("+-", "-");
