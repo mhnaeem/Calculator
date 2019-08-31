@@ -12,3 +12,4 @@ HOW TO START THIS PROJECT: Compile Calculator_GUI.java
 AUTHORS: Muhammad Hammad
 USER INSTRUCTIONS: Use like any normal calculator
 STATUS: Still Working on It
+
