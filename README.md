@@ -1,15 +1,15 @@
-------------------------------------------------------------------------
-This is a personal project about a calculator made completely from scrach
-written in the Java GUI using its Swing toolkit. The calculator has various
-functionailities such as calculating trigonometery functions and other 
-calculator functions. 
-------------------------------------------------------------------------
+<h1>Calculator</h1>
+<p>This is a personal project about a calculator made completely from scrach written in the Java GUI using its Swing toolkit. The calculator has various functionailities such as calculating trigonometery functions and other calculator functions. </p>
 
-PROJECT TITLE: Basic Calculator
-PURPOSE OF PROJECT: Personal Portfolio
-VERSION or DATE: v1.0, 19-Aug-2019
-HOW TO START THIS PROJECT: Compile Calculator_GUI.java
-AUTHORS: Muhammad Hammad
-USER INSTRUCTIONS: Use like any normal calculator
-STATUS: Still Working on It
+<br>
+<h2>Instructions to Run:</h2>
+<ol>
+  <li>Compile the "Calculator_GUI.java" and "Calculation.java" files.</li>
+  <li>Run the "Calculator_GUI" class</li>
+  <li>Enjoy using the calculator</li>
+</ol>
+<br>
+<h2>Here is a screenshot of the running application:</h2>
+
+![Alt text](/Calculator_Pic.PNG?raw=true "Calculator_Pic.PNG")
 
