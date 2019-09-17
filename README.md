@@ -1,5 +1,5 @@
 <h1>Calculator</h1>
-<p>This is a personal project about a calculator made completely from scratch written in the Java GUI using its Swing toolkit. The calculator has various functionailities such as calculating trigonometery functions and other calculator functions. </p>
+<p>This is a personal project about a calculator made completely from scratch written in the Java GUI using its Swing toolkit. The calculator has various functionalities such as calculating trigonometry functions and other calculator functions. </p>
 
 <br>
 <h2>Instructions to Run:</h2>
